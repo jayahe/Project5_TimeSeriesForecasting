@@ -1,5 +1,4 @@
 # Project5_TimeSeriesForecasting
-Project5_TimeSeriesForecasting 
 
 Stocks Data Forecasting
 1. NASDAQ.AAPL
